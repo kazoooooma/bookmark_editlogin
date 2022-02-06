@@ -1,0 +1,64 @@
+.title-container{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    white-space: nowrap;
+    text-align: center;
+    border-bottom: 1px solid #7f93a0;
+}
+.title-text{
+    font-size: 24px;
+    font-weight: bold;
+}
+.list_table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    margin-bottom: 30px;
+}
+.list_header,
+.list_results{
+    padding: 8px;
+    border-top: 1px solid #bfbfbf;
+    border-bottom: 1px solid #bfbfbf;
+}
+.list_header{
+    text-align: middle;
+    vertical-align: middle;
+    border: 1px solid #bfbfbf;
+    background-color: gainsboro;
+    font-size: 14px;
+    color: dimgray;
+}
+#indate{
+    width: 70px;
+}
+#title{
+    width: 150px;
+}
+#url{
+    width: 40px;
+}
+#comment{
+    width: 550px;
+}
+#rating{
+    width: 100px;
+}
+#edit{
+    width: 80px;;
+}
+.urlstyle{
+    text-align: middle;
+}
+
+.list_results{
+    /* width: 400px; */
+    border: 1px solid #bfbfbf;
+    background-color: #fefefe;
+    font-size: 14px;
+    color: dimgray;
+    word-break: break-all;
+}
+.starrate{
+    width: 100px;
+}
